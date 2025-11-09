@@ -4,11 +4,7 @@
 
 A lightweight, debug console component for React applications that provides an external debugging interface similar to browser developer tools. Perfect for mobile development, testing, and debugging React apps in various environments.
 
-<a href="https://mobile-console.teniryte.ru">View Demo</a>
-
-<table>
-<tr>
-<td width="60%" valign="top">
+<a href="https://mobile-console.teniryte.ru">Open Demo</a>
 
 ## How it works:
 
@@ -22,12 +18,16 @@ A lightweight, debug console component for React applications that provides an e
 - 💾 **Global Temp Storage** - Save objects to global scope when clicked (like devtools)
 - 🛡️ **Failsafe Stringification** - Safe stringification of all values
 
-
+<table>
+<tr>
+<td width="33%" valign="top">
+<img src="https://cdn.teniryte.ru/img/mobile-console/1.jpg" width="500">
 </td>
-<td width="40%" align="center">
-
-<img src="https://mobile-console.teniryte.ru/demo.png" width="500">
-
+<td width="33%" valign="top">
+<img src="https://cdn.teniryte.ru/img/mobile-console/2.jpg" width="500">
+</td>
+<td width="33%" valign="top">
+<img src="https://cdn.teniryte.ru/img/mobile-console/3.jpg" width="500">
 </td>
 </tr>
 </table>
